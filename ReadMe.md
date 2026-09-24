@@ -1,6 +1,6 @@
 # Subnautica PDA Mod
 
-<p align="center"><img src="https://raw.githubusercontent.com/Legandy/EnhancedFirstPersonCamera/main/Pictures//Enhanced First Person_Modpage.png" width="300" height="300">
+<p align="center"><img src="https://raw.githubusercontent.com/Legandy/SubnauticaPDA/main/Pictures//NMS_SubnauticaPDA_2.png" width="512" height="288">
 
 ## For No Man's Sky
 
