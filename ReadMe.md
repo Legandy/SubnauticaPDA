@@ -2,10 +2,11 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Legandy/SubnauticaPDA/main/.site/icon.png" width="512" height="288">
 
 
-## DOWNLOADS
+## DOWNLOADS:
 [NexusMods][nm]
 
-## DESCRIPTION
+
+## DESCRIPTION:
 This mod replaces the default exosuit voice with the voice of the Subnautica PDA. Of course, of the first Subnautica.
 
 I love Subnautica and No Man's Sky feels like space Subnautica.
