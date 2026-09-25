@@ -2,11 +2,11 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Legandy/SubnauticaPDA/main/.site/icon.png" width="512" height="288">
 
 
-## DOWNLOADS:
+## Downloads:
 [NexusMods][nm]
 
 
-## DESCRIPTION:
+## Description:
 This mod replaces the default exosuit voice with the voice of the Subnautica PDA. Of course, of the first Subnautica.
 
 I love Subnautica and No Man's Sky feels like space Subnautica.
@@ -14,7 +14,7 @@ One of Subnautica's charm was the PDA and the sometimes funny and iconic lines.
 This charm of an AI assistant is not present in NMS.
 I felt nostalgic so I made that exosuit replacement.
 
-## HOW I CREATED IT:
+## How I Created It:
 I got most of the voice lines from [Custom voices guide][cvg], the rest I transcribed myself [NMS Voice Lines][nmsVL].
 You can find the Original and the Subnautica themed lines in the sheet.
 I'm open for better changes to the lines, just add a comment to the corresponding voice line and leave a comment here.
@@ -27,24 +27,24 @@ I'm explaining all that because you can make your custom exosuit voice yourself.
 You just need to be lucky that someone already created a voice model you like or create your own, but I can't help you with that.
 
 
-## CONFLICTS:
+## Conflicts:
 - You can only have one custom exosuit voice mod installed at a time
 
 
-## BUGS:
+## Bugs:
 - The Subnautica PDA voice model slurs sometimes (maybe not enough trained, I don't know)
 - There are a few callouts that can not be replaced due to a bug in No Man's Sky
 - The sound files itself have -12 [LUFS][lufs-ref] so are loud enough, I tried louder but in game the volume doesn't change. 
 - Due to a limitation of the game, the new exosuit voice will always be more quiet than the original.
 
 
-## INSTALLATION:
+## Installation:
 - Vortex should work
 - For manual installation, extract the contents of the SubnauticaPDA_ExosuitVoice.zip file into your No Man's Sky\GAMEDATA\MODS
 - [More details here][mg]
 
 
-## SPECIAL THANKS:
+## Special Thanks:
 - [Aquaaa123][a123] for the [Subnautica PDA voice model][spda]
 - [RangerDulann][rd] for the [Custom voices guide][cvg]
 - [EternalLeo][el] for the [sound2wem script][2wemscript]

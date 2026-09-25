@@ -2,10 +2,10 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Legandy/SubnauticaPDA/main/.site/icon.png" width="512" height="288">
 
 
-## DOWNLOADS:
+## Downloads:
 [NexusMods][nm]
 
-## BESCHREIBUNG:
+## Beschreibung:
 Dieser Mod ersetzt die Standardstimme des Exosuits durch die Stimme des Subnautica-PDAs. Natürlich aus dem ersten Subnautica.
 
 Ich liebe Subnautica, und No Man’s Sky fühlt sich für mich wie ein Weltraum-Subnautica an.
@@ -13,7 +13,7 @@ Einer der Reize von Subnautica war der PDA und die manchmal lustigen und kultige
 Dieser Charme eines KI-Assistenten fehlt in NMS.
 Ich wurde nostalgisch, also habe ich diesen Exosuit-Ersatz erstellt.
 
-## SO HABE ICH ES ERSTELLT:
+## So Habe Ich Es Erstellt:
 Die meisten Sprachzeilen habe ich aus dem [Leitfaden für benutzerdefinierte Stimmen][cvg] bezogen, den Rest habe ich selbst transkribiert [NMS-Sprachzeilen][nmsVL].
 Die Originalzeilen und die Zeilen im Subnautica-Stil findest du in der Tabelle.
 Ich bin offen für Verbesserungsvorschläge zu den Zeilen – füge einfach einen Kommentar zur entsprechenden Sprachzeile hinzu und hinterlasse hier einen Kommentar.
@@ -26,24 +26,24 @@ Ich erkläre das alles, weil ihr eure eigene Exosuit-Stimme selbst erstellen kö
 Du musst nur Glück haben, dass bereits jemand ein Sprachmodell erstellt hat, das dir gefällt, oder du erstellst dein eigenes – dabei kann ich dir allerdings nicht helfen.
 
 
-## KONFLIKTE:
+## Konflikte:
 – Es kann jeweils nur ein benutzerdefiniertes Exosuit-Sprachmodul installiert sein
 
 
-## FEHLER:
+## Fehler:
 – Das Subnautica-PDA-Sprachmodell spricht manchmal undeutlich (vielleicht nicht ausreichend trainiert, ich weiß es nicht)
 - Es gibt einige Sprachansagen, die aufgrund eines Fehlers in „No Man’s Sky“ nicht ersetzt werden können
 - Die Audiodateien selbst haben einen Pegel von -12 [LUFS][lufs-ref] und sind somit laut genug; ich habe es mit höherer Lautstärke versucht, aber im Spiel ändert sich die Lautstärke nicht.
 - Aufgrund einer Einschränkung des Spiels ist die neue Exosuit-Stimme immer leiser als das Original.
 
 
-## INSTALLATION:
+## Installation:
 - Vortex sollte funktionieren
 - Für die manuelle Installation entpacke den Inhalt der Datei „SubnauticaPDA_ExosuitVoice.zip“ in deinen Ordner „No Man's Sky\GAMEDATA\MODS“
 - [Weitere Details hier][mg]
 
 
-## DANKE:
+## Danke:
 - [Aquaaa123][a123] for the [Subnautica PDA voice model][spda]
 - [RangerDulann][rd] for the [Custom voices guide][cvg]
 - [EternalLeo][el] for the [sound2wem script][2wemscript]
