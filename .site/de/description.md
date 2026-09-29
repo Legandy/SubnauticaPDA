@@ -1,5 +1,5 @@
 # No Man's Sky - Subnautica PDA Voice Mod
-<p align="center"><img src="https://raw.githubusercontent.com/Legandy/SubnauticaPDA/main/.site/icon.png" width="512" height="288">
+![Icon](https://raw.githubusercontent.com/Legandy/SubnauticaPDA/main/.site/icon.jpg)
 
 
 ## Downloads:
